@@ -1,4 +1,5 @@
-pip install PyOpenGL
-pip install WxPython
-pip install numpy
-pip install pyrr
+PyOpenGL
+WxPython
+numpy
+pyrr
+numpy-stl
